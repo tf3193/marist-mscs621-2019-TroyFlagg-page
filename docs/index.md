@@ -9,6 +9,8 @@ For quick translation and word counting you can take advantage of my front end h
  - AWS: My docker image was deployed to AWS to be run which is accessed from the link in the initial description. Note this will be taken down by the end of 2019. 
  
  
- ## Architecture
+ ## Architecture Diagram
+ 
+ You can find a detialed description of the architecture diagaram as well as how to run it in the main repository which will be made public at the end of 2019 [here](https://github.com/tf3193/marist-mscs621-2019-TroyFlagg)
 
 ![images](images/architecture.png)
